@@ -25,4 +25,8 @@ This repository is a python library for coding interview preparation. [이 저�
 
 ## Searching [검색]
 
+- DFS
+- BFS
+- BS
+
 ## Dynamic Programming [동적 프로그래밍]
