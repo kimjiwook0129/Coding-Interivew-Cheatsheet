@@ -7,9 +7,9 @@ This repository is a python library for coding interview preparation. [이 저�
 - Arrays
 - Linked lists
 - Hash tables
-- [Stack / Queue / Heap](/Data-Structures/Heap_Stack_Queue)
-- [Strings](/Data-Structures/Strings)
-- [Graphs](/Data-Structures/Graphs)
+- [Stack / Queue / Heap](/Data_Structures/Heap_Stack_Queue)
+- [Strings](/Data_Structures/Strings)
+- [Graphs](/Data_Structures/Graphs)
 - Trees
 
 ## Libraries [라이브러리]
