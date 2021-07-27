@@ -1,18 +1,20 @@
-# n number of A1, ..., An numbers are provided
-# n - 1 number of operators are provided
-# Ignore operators priority, just do it in order
-# Division -> int(num / divisor)
-# Do not change the order of the numbers provided, only change the ops order
+'''
+n number of A1, ..., An numbers are provided
+n - 1 number of operators are provided
+Ignore operators priority, just do it in order
+Division -> int(num / divisor)
+Do not change the order of the numbers provided, only change the ops order
 
-# First Line : 2 <= n <= 11
-# Second Lin : 1 <= A1, ..., An <= 100
-# Third line : a b c d where a, b, c, d = # of +, -, *, /
-# Print the max & min results
-# -1billion <= max, min <= 1billion
+First Line : 2 <= n <= 11
+Second Lin : 1 <= A1, ..., An <= 100
+Third line : a b c d where a, b, c, d = # of +, -, *, /
+Print the max & min results
+-1billion <= max, min <= 1billion
 
-# https://www.acmicpc.net/problem/14888
+https://www.acmicpc.net/problem/14888
+'''
 
-from itertools import permutations, accumulate, product
+from itertools import product
 import timeit
 
 

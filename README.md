@@ -2,14 +2,14 @@
 
 This repository is a python library for coding interview preparation. [이 저장소는 코딩 인터뷰 준비를 위한 파이썬 저장소입니다.]
 
-## Data Structres [데이터 구조]
+## [Data Structres](/Data_Structures) [데이터 구조]
 
 - Arrays
 - Linked lists
 - Hash tables
-- Stacks / Queues
-- Strings
-- Graphs
+- [Stack / Queue / Heap](/Data_Structures/Heap_Stack_Queue)
+- [Strings](/Data_Structures/Strings)
+- [Graphs](/Data_Structures/Graphs)
 - Trees
 
 ## Libraries [라이브러리]
