@@ -32,11 +32,12 @@ if __name__ == "__main__":
     my_string = 'Jiwook Kim'
     padding = 'X'
     len = 20
+
     print("##### Using str.rjust() #####")
-    print(useRjust(my_string, len, padding))
+    print(useRjust(my_string, len, padding))  # XXXXXXXXXXJiwook Kim
     print("##### Using str.zfill() #####")
-    print(my_string.zfill(len))
+    print(my_string.zfill(len))  # 0000000000Jiwook Kim
     print("##### Using str.format() #####")
-    print(strFormat(my_string, len, padding))
+    print(strFormat(my_string, len, padding))  # XXXXXXXXXXJiwook Kim
     print("##### Using f-strings #####")
-    print(f_strings(my_string, len, padding))
+    print(f_strings(my_string, len, padding))  # XXXXXXXXXXJiwook Kim
