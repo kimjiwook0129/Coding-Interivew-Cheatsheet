@@ -9,7 +9,7 @@
     - Find the root nodes of the two nodes [두 노드의 부모 노드들 찾기]
     - Set the root node to be the child of another root node [한 부모 노드가 다른 부모 노드의 child 노드가 되도록 설정]
   - Repeat the first process for all the given union operations [모든 union 연산이 끝날때 까지 1번 작업 반복]
-- Complexities : Time O(U + M log U) where U: # of union op, M: # of find op | Space O(V)
+- Complexities : Time O(U + F log U) where U: # of union op, F: # of find op | Space O(V)
 
 ### Kruskal Algorithms [크루스칼 알고리즘]
 
