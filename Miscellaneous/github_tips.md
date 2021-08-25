@@ -13,3 +13,5 @@ Description
 - If you want to get feedback on the work sooner, **Convert to draft** -> when not ready for proper review to get merged in
 
 - Doing a to-do list in the pull request or the issue shows the progress helps
+
+**git clone --single-branch --branch [branch-name] [repo]**
