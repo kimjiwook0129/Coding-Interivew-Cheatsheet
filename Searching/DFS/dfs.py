@@ -19,5 +19,6 @@ if __name__ == "__main__":
         [1, 7]
     ]
     visited = [False] * len(graph)
-    dfs(graph, 1, visited)  # 1 2 7 6 8 3 4 5
+    # 1 2 7 6 8 3 4 5
+    dfs(graph, 1, visited)
     print()
