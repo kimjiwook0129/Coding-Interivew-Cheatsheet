@@ -1,5 +1,6 @@
 # N, M, K : N # of numbers, add M times to make the largest num, cannot add the same number K times consecutive
 # input)
+# 이것이 코딩테스트다p.93
 # 5 8 3
 # 2 4 5 4 6
 # output)
