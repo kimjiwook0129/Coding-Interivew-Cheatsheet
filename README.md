@@ -4,7 +4,7 @@ This repository is a python library for coding interview preparation. [이 저�
 
 ## [Data Structres](Data-Structures) [데이터 구조]
 
-- [Linked lists](/Data-Structures/Linked-Lists)
+- [Linked Lists](/Data-Structures/Linked-Lists)
 - [Hashmap](/Data-Structures/Hashmap)
 - [Stack / Queue / Heap](/Data-Structures/Heap_Stack_Queue)
 - [Strings](/Data-Structures/Strings)
@@ -12,7 +12,7 @@ This repository is a python library for coding interview preparation. [이 저�
 - Trees
 - [Lists](/Data-Structures/Lists)
 
-## [Libraries](Libraries) [라이브러리]
+## [Libraries](/libraries) [라이브러리]
 
 - [Itertools](/libraries/Itertools)
 
