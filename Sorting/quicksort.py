@@ -2,7 +2,6 @@
 # Complexities : Time O(N log N) | Space O(N)
 # Worst Time Complexity : O(N^2)
 
-
 def quicksort(array, start, end):
     if start >= end:
         return
@@ -21,7 +20,6 @@ def quicksort(array, start, end):
     quicksort(array, start, right - 1)
     quicksort(array, right + 1, end)
 
-
 def quicksort_python_simple(array):
     if len(array) <= 1:
         return array
@@ -33,6 +31,26 @@ def quicksort_python_simple(array):
     right_side = [elem for elem in tail if elem > pivot]
 
     return quicksort_python_simple(left_side) + [pivot] + quicksort_python_simple(right_side)
+
+
+def quicksort(array, start, end):
+    if end <= start: return
+    pivot = start
+    left, right = start + 1, end
+    while True:
+        while array[pivot] > array[left]:
+            left += 1
+        while array[pivot] < array[right]:
+            right -= 1
+        if left > right:
+            array[pivot], array[right] = array[right], array[pivot]
+            break
+        array[left], array[right] = array[right], array[left]
+    quicksort(array, start, right - 1)
+    quicksort(array, right + 1, end)
+    
+    
+
 
 
 if __name__ == "__main__":

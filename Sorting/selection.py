@@ -12,7 +12,6 @@ def selection_sort(array, printEach=True):
         if printEach:
             print(array)
 
-
 if __name__ == "__main__":
     array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
     print(f"Initial Array : {array}")
