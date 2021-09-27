@@ -4,25 +4,27 @@ This repository is a python library for coding interview preparation. [이 저�
 
 ## [Data Structres](Data-Structures) [데이터 구조]
 
-- [Linked lists](/Data-Structures/Linked-Lists)
-- [Hashmap](/Data-Structures/Hashmap)
-- [Stack / Queue / Heap](/Data-Structures/Heap_Stack_Queue)
-- [Strings](/Data-Structures/Strings)
-- [Graphs](/Data-Structures/Graphs)
-- Trees
-- [Lists](/Data-Structures/Lists)
+- [Linked-lists](Data-Structures/Linked-Lists)
+- [Hashmap](Data-Structures/Hashmap)
+- [Stack / Queue / Heap](Data-Structures/Heap_Stack_Queue)
+- [Strings](Data-Structures/Strings)
+- [Graphs](Data-Structures/Graphs)
+- [Trees](Data-Structures/Trees)
+- [Lists](Data-Structures/Lists)
 
 ## [Libraries](Libraries) [라이브러리]
 
-- [Itertools](/libraries/Itertools)
+- [Itertools](libraries/Itertools)
 
 ## [Sorting](Sorting) [정렬]
 
-- Bubble Sort [버블 정렬]
-- [Merge Sort](/Sorting/mergesort) [병합 정렬]
-- Quick Sort [퀵 정렬]
-- Selection Sort [선택 정렬]
-- Insertion Sort [삽입 정렬]
+- [Bubble Sort](Sorting/bubblesort.py) [버블 정렬]
+- [Merge Sort](Sorting/mergesort.py) [병합 정렬]
+- [Quick Sort](Sorting/quicksort.py) [퀵 정렬]
+- [Selection Sort](Sorting/selection.py) [선택 정렬]
+- [Insertion Sort](Sorting/insertion.py) [삽입 정렬]
+- [Count Sort](Sorting/countsort.py) [계수 정렬]
+- [Radix Sort](Sorting/radixsort.py) [기수 정렬]
 
 ## Searching [탐색]
 
