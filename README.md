@@ -12,7 +12,7 @@ This repository is a python library for coding interview preparation. [이 저�
 - [Trees](Data-Structures/Trees)
 - [Lists](Data-Structures/Lists)
 
-## [Libraries](Libraries) [라이브러리]
+## [Libraries](libraries) [라이브러리]
 
 - [Itertools](libraries/Itertools)
 
@@ -32,6 +32,6 @@ This repository is a python library for coding interview preparation. [이 저�
 - BFS(Breath-First Search) [넓이 우선 탐색]
 - BS(Binary Search) [이분 탐색]
 
-## [Dynamic Programming](/Dynamic-programming) [동적 프로그래밍]
+## [Dynamic Programming](Dynamic-programming) [동적 프로그래밍]
 
 ## [Miscellaneous](Miscellaneous) [기타]
